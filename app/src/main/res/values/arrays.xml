@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="inspirational_quotes">
+        <item>The only way to do great work is to love what you do. - Steve Jobs</item>
+        <item>Believe you can and you\'re halfway there. - Theodore Roosevelt</item>
+        <item>Don\'t watch the clock; do what it does. Keep going. - Sam Levenson</item>
+        <item>In the middle of every difficulty lies opportunity. - Albert Einstein</item>
+    </string-array>
+</resources>
